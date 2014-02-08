@@ -1,4 +1,6 @@
 
+http://srea.github.io/apps/qbox-license.html
+http://srea.github.io/apps/qbox.html
 http://srea.github.io/archive.html
 http://srea.github.io/atom.xml
 http://srea.github.io/categories.html
