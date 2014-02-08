@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Hello World!
+title: srea.github.io
 tagline: 
 ---
 {% include JB/setup %}
+
+![MyIcon](https://s.gravatar.com/avatar/a5e94e6a511b483b25138520506fbfaf?s=80 "MyIcon")
 
 ### アプリ
 * [Qbox](./apps/qbox.html)
