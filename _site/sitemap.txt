@@ -9,5 +9,3 @@ http://srea.github.io/pages.html
 http://srea.github.io/rss.xml
 http://srea.github.io/sitemap.txt
 http://srea.github.io/tags.html
-
-http://srea.github.io/lessons/2011/12/29/jekyll-introduction

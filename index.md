@@ -15,11 +15,8 @@ tagline:
 
 ### リンク 
 * [Tumblr](http://php6.tumblr.com/)
-* [Twitter](http://twitter.com/6q3/)
 * [Github](http://github.com/srea/)
 * [Qiita](http://qiita.com/srea/)
-
-### コンタクト
 
 <!--
 <ul class="posts">
