@@ -21,7 +21,7 @@ tagline:
     * [画像リサイズ](http://srea.jp/)
 * その他
     * [GMO Chrome Extension](https://chrome.google.com/webstore/detail/gmo-internet-group/cnfbjifnicjikijhganebgjljkdikdgn)
-    * [Hosts Changer](./hostsChanger/)
+    * [Hosts Changer](./HostsChanger/)
 <!--
 <ul class="posts">
   {% for post in site.posts %}
