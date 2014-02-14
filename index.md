@@ -18,7 +18,8 @@ tagline:
 * アプリ
     * [Qbox](./apps/qbox.html)
 * ウェブ
-    * [画像リサイズ](http://srea.jp/) (since:2003/11/08)
+    * [画像リサイズ](http://srea.jp/)   
+      (since:2003/11/08)
 * その他
     * [GMO Chrome Extension](https://chrome.google.com/webstore/detail/gmo-internet-group/cnfbjifnicjikijhganebgjljkdikdgn)
     * [Hosts Changer](./HostsChanger/)
