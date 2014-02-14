@@ -1,17 +1,18 @@
 ---
 layout: page
-title: "Qbox"
-description: "Qboxはエンジニアのための技術情報共有サービス「Qiita」のクライアントアプリです。"
+title: Qbox
+description: Qboxはエンジニアのための技術情報共有サービス「Qiita」のクライアントアプリです。
 ---
 {% include JB/setup %}
 
-### Qboxとは
-Qiitaのクライアントアプリです。  
+### どんなアプリ？
+Qiitaのクライアントアプリです。
 新着人気エントリーや週間注目エントリーをチェックして今日からキャッチアップしていきましょう!
 
-![Logo](/assets/images/qbox-logo.png "logo")
-
+### Download
 [ ![Logo](/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png)  ](https://itunes.apple.com/us/app/oss-box/id806700843?l=ja&ls=1&mt=8)
+
+![Logo](/assets/images/qbox-logo.png)
 
 ### Feature
 * 最近の人気エントリ
@@ -28,3 +29,10 @@ Qiitaのクライアントアプリです。
 ### Link
 * [Qiita](http://qiita.com/)
 * [License](./qbox-license.html)
+
+### Caution
+* QboxはQiita運営元のIncrementsから許諾を得た上で開発・公開しています。
+* Qboxに関するお問い合わせはQiitaへ行わないようにお願いします。
+
+### Contact
+* [こちらのどれかへ](http://tamazawa.net/)
