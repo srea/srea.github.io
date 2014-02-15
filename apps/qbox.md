@@ -10,7 +10,7 @@ Qiitaのクライアントアプリです。
 新着人気エントリーや週間注目エントリーをチェックして今日からキャッチアップしていきましょう!
 
 ### Download
-[ ![Logo](/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png)  ](https://itunes.apple.com/us/app/oss-box/id806700843?l=ja&ls=1&mt=8)
+[ ![Logo](/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png)  ](https://itunes.apple.com/ja/app/qbox-for-qiita/id806700843?l=ja&ls=1&mt=8)
 
 ![Logo](/assets/images/qbox-logo.png)
 
