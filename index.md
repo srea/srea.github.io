@@ -7,7 +7,7 @@ tagline:
 
 ![MyIcon](https://s.gravatar.com/avatar/a5e94e6a511b483b25138520506fbfaf?s=80 "MyIcon")
 
-### リンク 
+### リンク
 * [Tumblr](http://php6.tumblr.com/)
 * [Github](http://github.com/srea/)
 * [Facebook](https://www.facebook.com/srea.jp)
@@ -22,7 +22,11 @@ tagline:
 * その他
     * [GMO Chrome Extension](https://chrome.google.com/webstore/detail/gmo-internet-group/cnfbjifnicjikijhganebgjljkdikdgn)
     * [Hosts Changer](./HostsChanger/)
+
+### メール
+<a href="mailto:yuki@tamazawa.net">yuki@tamazawa.net</a>
 <!--
+
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>

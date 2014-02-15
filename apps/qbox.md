@@ -35,4 +35,8 @@ Qiitaのクライアントアプリです。
 * Qboxに関するお問い合わせはQiitaへ行わないようにお願いします。
 
 ### Contact
-* [こちらのどれかへ](http://tamazawa.net/)
+* [リンクのどれかへ](http://tamazawa.net/)
+
+### Article
+* [Tumblr - Webエンジニアのためのアプリ「Qbox」を公開しました。](http://php6.tumblr.com/post/76722902253)
+* [Qiita - Qboxというアプリを作りました](http://qiita.com/srea/items/18d9afb8e8778614b7d5)
