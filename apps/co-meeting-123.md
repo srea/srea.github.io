@@ -5,25 +5,27 @@ description: 未読チェッカーfor co-meetingはリアルタイムコラボ�
 ---
 {% include JB/setup %}
 
-### どんなアプリ？
+### What's this?
 co-meetingの未読がチェックできるiOSアプリです。
-ウェブで見慣れたUIがアプリでサクサクチェックできます。
+ウェブで見慣れたUIがアプリになりサクサクチェックできます。
 
-### 無料ダウンロード
+### Download Free
+
 [ ![Logo](/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png)  ](https://itunes.apple.com/us/app/123-for-co-meeting/id871137673?l=ja&ls=1&mt=8)
-
 ![Logo](/assets/images/comeeting123-logo.png)
 
 ### Feature
+
 * グループ一覧
 * ミーティング一覧
-* 未読通知切り替え
+* 未読プッシュ通知
 
 ### Todo
-* 特になし (APIが追加され次第)
+* 特にありません
 
 ### Link
 * [co-meeting](http://www.co-meeting.com/ja/)
+* [co-meeting API v1.0 Beta](http://co-meeting.github.io/)
 
 ### Caution
 * 未読チェッカーfor co-meetingは事前に株式会社co-meetingから許諾を得た上で開発・公開しています。
