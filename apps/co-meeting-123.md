@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 未読チェッカー for co-meeting
-description: 未読チェッカーfor co-meetingはリアルタイムコラボレーションツール「co-meeting」のクライアントアプリです。
+title: 未読チェッカー for co-meeting 
+description: 未読チェッカー for co-meetingはリアルタイムコラボレーションツール「co-meeting」のiPhoneアプリです。
 ---
 {% include JB/setup %}
 
 ### What's this?
-co-meetingの未読がチェックできるiOSアプリです。
+co-meetingの未読がチェックできるiPhoneアプリです。
 ウェブで見慣れたUIがアプリになりサクサクチェックできます。
 
 ### Download Free
