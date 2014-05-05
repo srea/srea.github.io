@@ -17,7 +17,7 @@ tagline:
 ### 作ったもの
 * アプリ
     * [未読チェッカーfor co-meeting](./apps/co-meeting-123.html)
-    * [Qbox](./apps/qbox.html)
+    * [Qbox for Qiita](./apps/qbox.html)
 * ウェブ
     * [画像リサイズ](http://srea.jp/) (since:2013/11/08)
 * その他
