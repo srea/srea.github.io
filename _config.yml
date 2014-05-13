@@ -9,13 +9,13 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Tamazawa Yuki
+title : srea.github.io
 tagline: Site Tagline
 author :
   name : Yuki Tamazawa
-  email : yuki@tamazawa.net 
+  email : yuki.tamazawa@icloud.com 
   github : srea
-  twitter : 6q3 
+  twitter : yukimikan88 
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
