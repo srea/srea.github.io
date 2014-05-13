@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tamazawa yuki 
+title: TOP
 tagline: 
 ---
 {% include JB/setup %}
