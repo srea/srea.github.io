@@ -25,10 +25,6 @@ co-meetingの未読数をチェックして一括既読できるiPhoneアプリ�
 * ミーティング内容画面開発
 * コメント投稿機能
 
-### Link
-* [co-meeting](http://www.co-meeting.com/ja/)
-* [co-meeting API v1.0 Beta](http://co-meeting.github.io/)
-
 ### Caution
 * このアプリは事前に株式会社co-meetingから許諾を得た上で開発・公開しています。
 * 当アプリに関するお問い合わせは株式会社co-meetinへ行わないようにお願いします。
