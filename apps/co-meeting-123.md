@@ -6,12 +6,12 @@ description: 未読チェッカー for co-meetingはリアルタイムコラボ�
 {% include JB/setup %}
 
 ### What's this?
-co-meetingの未読がチェックできるiPhoneアプリです。
+co-meetingの未読数をチェックして一括既読できるiPhoneアプリです。  
 ウェブで見慣れたUIがアプリになりサクサクチェックできます。
 
 ### Download Free
 
-[ ![Logo](/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png)  ](https://itunes.apple.com/us/app/123-for-co-meeting/id871137673?l=ja&ls=1&mt=8)
+[![Logo](/assets/images/Download_on_the_App_Store_Badge_US-UK_135x40.png)](https://itunes.apple.com/us/app/123-for-co-meeting/id871137673?l=ja&ls=1&mt=8)  
 ![Logo](/assets/images/comeeting123-logo.png)
 
 ### Feature
@@ -21,18 +21,10 @@ co-meetingの未読がチェックできるiPhoneアプリです。
 * 未読プッシュ通知
 
 ### Todo
-* 特にありません
 
-### Link
-* [co-meeting](http://www.co-meeting.com/ja/)
-* [co-meeting API v1.0 Beta](http://co-meeting.github.io/)
+* ミーティング内容画面開発
+* コメント投稿機能
 
 ### Caution
-* 未読チェッカーfor co-meetingは事前に株式会社co-meetingから許諾を得た上で開発・公開しています。
+* このアプリは事前に株式会社co-meetingから許諾を得た上で開発・公開しています。
 * 当アプリに関するお問い合わせは株式会社co-meetinへ行わないようにお願いします。
-
-### Contact
-* [リンクのどれかへ](http://tamazawa.net/)
-
-### Article
-* なし
