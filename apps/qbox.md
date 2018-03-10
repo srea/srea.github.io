@@ -3,7 +3,6 @@ layout: page
 title: Qbox
 description: Qboxはエンジニアのための技術情報共有サービス「Qiita」のクライアントアプリです。
 ---
-{% include JB/setup %}
 
 ### どんなアプリ？
 Qiitaのクライアントアプリです。

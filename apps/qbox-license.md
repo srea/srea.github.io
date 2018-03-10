@@ -3,7 +3,7 @@ layout: page
 title: "Qbox Lisence"
 description: ""
 ---
-{% include JB/setup %}
+
 ```
 Copyright (c) 2013 AFNetworking (http://afnetworking.com/)
 

@@ -3,7 +3,6 @@ layout: page
 title: 未読チェッカー for co-meeting 
 description: 未読チェッカー for co-meetingはリアルタイムコラボレーションツール「co-meeting」のiPhoneアプリです。
 ---
-{% include JB/setup %}
 
 ### What's this?
 co-meetingの未読数をチェックして一括既読できるiPhoneアプリです。  
