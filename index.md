@@ -1,6 +1,6 @@
 ---
 layout: page
-title: a
+title: srea's 
 tagline: 
 ---
 {% include JB/setup %}
@@ -22,6 +22,3 @@ tagline:
     * [画像リサイズ](http://srea.jp/) (since:2003/11/08)
 * その他ネタ
     * [Hosts Changer](./HostsChanger/)
-
-### メール
-<a href="mailto:yuki@tamazawa.net">yuki@tamazawa.net</a>
