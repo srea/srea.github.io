@@ -28,3 +28,9 @@ author :
 #
 production_url : http://srea.github.io
 theme: jekyll-theme-cayman
+gems:
+    - jemoji
+    - jekyll-mentions
+    - jekyll-redirect-from
+    - jekyll-sitemap
+    - jekyll-feed
