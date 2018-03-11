@@ -8,6 +8,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srea.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yukimikan88
 github_username:  srea
+facebook_username: srea.jp
+instagram_username: yukimikan88
+header_pages:
+  - about.md
+  - apps.md
 
 # Build settings
 markdown: kramdown
