@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![icon](https://s.gravatar.com/avatar/a5e94e6a511b483b25138520506fbfaf?s=150 "icon")
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### リンク
+* [Tumblr](http://php6.tumblr.com/)
+* [Github](http://github.com/srea/)
+* [Facebook](https://www.facebook.com/srea.jp)
+* [Twitter](http://twitter.com/yukimikan88/)
+* [Qiita](http://qiita.com/srea/)
 
-
-[jekyll-organization]: https://github.com/jekyll
+### 作ったもの
+* アプリ
+    * [未読チェッカーfor co-meeting](./apps/co-meeting-123.html)
+    * [Qbox for Qiita](./apps/qbox.html)
+* ウェブ
+    * [画像リサイズ](http://srea.jp/) (since:2003/11/08)
+* その他ネタ
+    * [Hosts Changer](./HostsChanger/)
