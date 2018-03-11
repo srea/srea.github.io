@@ -16,9 +16,9 @@ permalink: /about/
 
 ### 作ったもの
 * アプリ
-    * [未読チェッカーfor co-meeting](./apps/co-meeting-123.html)
-    * [Qbox for Qiita](./apps/qbox.html)
+    * [未読チェッカーfor co-meeting](/apps/co-meeting-123.html)
+    * [Qbox for Qiita](/apps/qbox.html)
 * ウェブ
     * [画像リサイズ](http://srea.jp/) (since:2003/11/08)
 * その他ネタ
-    * [Hosts Changer](./HostsChanger/)
+    * [Hosts Changer](/HostsChanger/)
