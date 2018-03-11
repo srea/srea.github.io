@@ -4,6 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     less is more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://srea.github.io"
+timezone: Asia/Tokyo
 twitter_username: yukimikan88
 github_username:  srea
 facebook_username: srea.jp
