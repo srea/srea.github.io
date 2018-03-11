@@ -1,10 +1,11 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
+permalink: "/about/"
 ---
 
 ![icon](https://s.gravatar.com/avatar/a5e94e6a511b483b25138520506fbfaf?s=150 "icon")
+@srea
 
 ### Skills
 
@@ -19,4 +20,3 @@ permalink: /about/
 * [Facebook](https://www.facebook.com/srea.jp)
 * [Twitter](http://twitter.com/yukimikan88/)
 * [Qiita](http://qiita.com/srea/)
-
