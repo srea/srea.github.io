@@ -1,13 +1,3 @@
 # srea.github.io
 
-Welcome!
-
-```
-$ bundle install
-$ bundle exec jekyll serve
-```
-
-
-```
-http://localhost:4000/admin
-```
+This site redirects all traffic to [https://minipro.co/](https://minipro.co/).
